@@ -1,5 +1,5 @@
 # Zomato-Order-Analysis
-# Zomato Data Analysis 📊
+
 
 This project involves in-depth data analysis on a Zomato dataset using Python libraries such as **Pandas**, **NumPy**, and **Matplotlib**. It is done entirely in Google Colab.
 
